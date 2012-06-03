@@ -1,0 +1,6 @@
+[submodule "libopenmetaverse"]
+	path = libopenmetaverse
+	url = git://github.com/openmetaversefoundation/libopenmetaverse.git
+[submodule "radegast"]
+	path = radegast
+	url = git://github.com/radegastdev/radegast.git
